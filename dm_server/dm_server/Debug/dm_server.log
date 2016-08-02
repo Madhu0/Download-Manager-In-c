@@ -1,0 +1,4 @@
+﻿  dm_server.cpp
+c:\users\madhu\documents\visual studio 2013\projects\dm_server\dm_server\dm_server.cpp(73): warning C4101: 'buff' : unreferenced local variable
+c:\users\madhu\documents\visual studio 2013\projects\dm_server\dm_server\dm_server.cpp(72): warning C4101: 'cl' : unreferenced local variable
+  dm_server.vcxproj -> C:\Users\madhu\documents\visual studio 2013\Projects\dm_server\Debug\dm_server.exe
