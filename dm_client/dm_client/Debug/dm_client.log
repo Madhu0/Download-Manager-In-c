@@ -1,0 +1,4 @@
+﻿  client.cpp
+c:\users\madhu\documents\visual studio 2013\projects\dm_client\dm_client\client.cpp(123): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\users\madhu\documents\visual studio 2013\projects\dm_client\dm_client\client.cpp(142): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+  dm_client.vcxproj -> C:\Users\madhu\documents\visual studio 2013\Projects\dm_client\Debug\dm_client.exe
